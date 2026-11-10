@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@example.com",
+    "phone": "+1 (555) 234-5678",
+    "text": "SARAH JENKINS\nsarah.jenkins@example.com | +1 (555) 234-5678 | https://linkedin.com/in/sarah-jenkins-cloud\n\nPROFESSIONAL SUMMARY\nSenior Cloud Solutions Architect with 6.5+ years of experience architecting and migrating distributed workloads to AWS. Expert in Infrastructure as Code with Terraform, container orchestration via Docker and Kubernetes, and building serverless data pipelines using AWS Lambda, S3, and DynamoDB.\n\nTECHNICAL SKILLS\n- Cloud: AWS (EC2, S3, Lambda, DynamoDB, CloudFront, IAM, API Gateway), GCP\n- IaC & Automation: Terraform, CloudFormation, Ansible\n- Containers: Docker, Kubernetes, Helm, ECS, EKS\n- Languages: Python, Go, Bash, SQL\n- CI/CD & DevOps: GitHub Actions, Jenkins, Git, Linux\n- Frameworks: FastAPI, REST API, Microservices\n\nEXPERIENCE\nLead Cloud Architect | Apex Cloud Systems | 2021 - Present\n- Engineered multi-region AWS cloud infrastructure using Terraform and Kubernetes, achieving 99.99% uptime.\n- Implemented serverless event-driven document processing with AWS Lambda, S3, and DynamoDB.\n- Led team of 8 DevOps and Cloud engineers.\n\nCloud Engineer | Nexus Tech Solutions | 2018 - 2021\n- Automated CI/CD deployment pipelines using GitHub Actions and Docker containers.\n- Migrated legacy monolithic applications to microservices architecture.\n\nEDUCATION\nB.S. in Computer Science - University of Washington (2014 - 2018)"
+  },
+  {
+    "name": "Michael Chen",
+    "email": "mchen.dev@example.com",
+    "phone": "+1 (555) 876-5432",
+    "text": "MICHAEL CHEN\nmchen.dev@example.com | +1 (555) 876-5432 | https://github.com/mchen-dev\n\nSUMMARY\nDevOps & Software Engineer with 4 years of experience building reliable backend microservices with Python and FastAPI, containerizing applications with Docker, and setting up automated CI/CD pipelines.\n\nSKILLS\nPython, Docker, CI/CD, Git, Linux, FastAPI, PostgreSQL, AWS, Redis, REST API, Agile\n\nPROFESSIONAL EXPERIENCE\nDevOps Engineer | CloudScale Inc. | 2022 - Present\n- Deployed and maintained backend APIs using FastAPI and Docker containers.\n- Configured CI/CD workflows and basic AWS EC2/S3 storage integrations.\n\nSoftware Developer | ByteStream Software | 2020 - 2022\n- Developed RESTful API endpoints with Python, PostgreSQL, and Git.\n\nEDUCATION\nM.S. in Software Engineering - San Jose State University (2018 - 2020)"
+  },
+  {
+    "name": "Alex Rodriguez",
+    "email": "alex.r@example.com",
+    "phone": "+1 (555) 345-9876",
+    "text": "ALEX RODRIGUEZ\nalex.r@example.com | +1 (555) 345-9876\n\nPROFILE\nFrontend Web Developer with 2.5 years of experience building responsive, interactive user interfaces with React, JavaScript, TypeScript, and Tailwind CSS.\n\nSKILLS\nJavaScript, React, TypeScript, HTML5, CSS3, Tailwind CSS, Node.js, Git, Docker\n\nEXPERIENCE\nFrontend Developer | CreativePixel Agency | 2022 - Present\n- Built customer dashboards using React, Tailwind CSS, and REST API integration.\n- Collaborated with UI/UX designers using Figma.\n\nJunior Web Developer | StartUp Studio | 2021 - 2022\n- Developed web pages using HTML5, CSS3, and JavaScript.\n\nEDUCATION\nB.Tech in Information Technology (2017 - 2021)"
+  }
+]
