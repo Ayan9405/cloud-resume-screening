@@ -1,0 +1,8 @@
+# AWS Infrastructure Configuration Variables
+aws_region           = "us-east-1"
+environment          = "dev"
+project_name         = "ai-resume-screening"
+frontend_cors_origin = "*"
+s3_retention_days    = 90
+lambda_timeout       = 60
+lambda_memory_size   = 1024
