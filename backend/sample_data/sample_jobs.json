@@ -1,0 +1,32 @@
+[
+  {
+    "job_id": "job-cloud-architect",
+    "title": "Senior Cloud Solutions Architect",
+    "department": "Cloud & Platform Engineering",
+    "min_experience_years": 4.0,
+    "required_skills": ["AWS", "Terraform", "Docker", "Kubernetes", "Python", "CI/CD"],
+    "preferred_skills": ["DynamoDB", "Lambda", "Microservices", "System Design", "FastAPI"],
+    "description": "We are seeking an experienced Cloud Solutions Architect to build, automate, and deploy resilient enterprise cloud pipelines on AWS. Must have strong proficiency with Terraform, AWS Serverless (Lambda, DynamoDB, S3), container orchestration with Docker/Kubernetes, and automated CI/CD workflows.",
+    "is_active": true
+  },
+  {
+    "job_id": "job-ml-engineer",
+    "title": "Machine Learning Engineer (NLP / LLM)",
+    "department": "Artificial Intelligence",
+    "min_experience_years": 3.0,
+    "required_skills": ["Python", "PyTorch", "NLP", "Machine Learning", "Docker", "FastAPI"],
+    "preferred_skills": ["HuggingFace", "LangChain", "OpenAI", "Bedrock", "Pandas", "Scikit-Learn"],
+    "description": "Looking for an NLP / Machine Learning Engineer to design and train document processing models, information extraction pipelines, and vector embeddings using PyTorch, HuggingFace, and modern LLM frameworks.",
+    "is_active": false
+  },
+  {
+    "job_id": "job-fullstack-dev",
+    "title": "Full Stack Cloud Developer",
+    "department": "Product Engineering",
+    "min_experience_years": 2.5,
+    "required_skills": ["React", "Node.js", "TypeScript", "Tailwind CSS", "REST API", "Git"],
+    "preferred_skills": ["AWS", "Next.js", "PostgreSQL", "Docker", "GraphQL"],
+    "description": "Full stack engineer responsible for high-performance React frontends and Node.js / Python microservice backends deployed in cloud environments.",
+    "is_active": false
+  }
+]
